@@ -1,4 +1,4 @@
-# 🌦️ WeatherNow - Android App
+# 🌦️ Weather - Android App
 
 A modern weather app built with **Kotlin**, **Jetpack Compose**, and **Material3**. It offers real-time weather, air quality data, and animated UI that reflects current weather conditions.
 

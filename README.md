@@ -19,9 +19,9 @@ A modern weather app built with **Kotlin**, **Jetpack Compose**, and **Material3
 
 ## 📷 Screenshots
 
-| Home Screen              | Forecast Screen               | Settings Screen             |
-|--------------------------|-------------------------------|-----------------------------|
-| ![Home](screenshots/home.png) | ![Forecast](screenshots/forecast.png) | ![Settings](screenshots/settings.png) |
+| Home Screen                   | Forecast Screen                       | Settings Screen                       |
+|-------------------------------|---------------------------------------|---------------------------------------|
+| ![Home](screenshots/home.jpg) | ![Forecast](screenshots/forecast.jpg) | ![Settings](screenshots/settings.jpg) |
 
 > 🔎 Place these images in a `/screenshots` folder at your project root or update the paths if hosting elsewhere (e.g., Imgur or GitHub CDN).
 
